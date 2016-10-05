@@ -1,9 +1,14 @@
 # Lazy-Cyberoam
-Command Line and Python Script for Starting Hotspot and Logging into Cyberoam User Portal
+A command line and Python script for starting a hotspot and loggin into the Cyberoam user portal!  
 
+## Features
+- Logs the user into Cyberoam 
+- Logs the user out of Cyberoam
 
--------------
-USAGE : EDIT THE BATCH FILE AND CONFIGURE YOUR USERNAME AND PASSWORD RESPECTIVELY.
-        COMMENT OUT THE LINES FOR HOTSPOT STARTUP AND TERMINATION AS PER REQUIREMENT.
-        
-        NOTE: YOU CAN CHANGE THE URL FOR CYBEROAM HOST IN PYTHON FILE. 
+## Setup
+Clone or fork this repo with git 
+
+## Usage 
+Edit the .bat file and configure your username and password in cyber.py.
+Edit the URL for Cyberoam to adjust to your needs. 
+Make adjustments if necessary. 
